@@ -1,6 +1,7 @@
 # Name
 Nikita Starmoussov
-#Contact
+
+# Contact
 e-mail: nikta.starmoussov@gmail.com;
 discord: NiktStar(@NikitaStarmoussov);
 Github: https://github.com/NikitaStarmoussov;
@@ -8,7 +9,7 @@ Github: https://github.com/NikitaStarmoussov;
 # About me
 I just started learning, but I already have the basic skills:
 1. HTML5, CSS3;
-2. I use grid in layout
+2. I use grid, flex in layout
 4. In development I use BEM, sсss
 3. I'm learning Javascript
 4. I know the basics of Git and use markdown
