@@ -1,1 +1,3 @@
-https://nikitastarmoussov.github.io/rsschool-cv/
+
+https://nikitastarmoussov.github.io/rsschool-cv/cv
+https://nikitastarmoussov.github.io/rsschool-cv
